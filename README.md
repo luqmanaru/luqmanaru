@@ -50,14 +50,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqmanaru&show_icons=true&theme=monokai&locale=id)
 
 ##### Game
-<h2 align="left">I code with</h2>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
 </picture>
-
-###
