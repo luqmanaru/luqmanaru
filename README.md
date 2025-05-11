@@ -83,27 +83,12 @@
   </a>
 </p>
 
-### 🧩 Fun Section: Game Mode
-
-#### 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p>
-  <a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-  </a>
-</p>
-
 ### 📫 Let's Connect!
 
 <p align="left">
   <a href="mailto:hanif@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/luqmanaru"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p>
