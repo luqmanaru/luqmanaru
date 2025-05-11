@@ -1,27 +1,22 @@
 <h1 align="center">👋 Hello World, I'm Hanif 👋</h1>
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" />
 </p>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</a>
+---
 
 ### 🧠 About Me
 
-- 🎓 Saya Hanif Luqmanul Hakim, Mahasiswa Teknik Informatika yang suka eksplorasi teknologi
-- 💡 Lagi mendalami: `Artificial Intelligence`, `Internet of Things`, `Networking`, `Cybersecurity`, `Project Management`
+- 🎓 Saya Hanif Luqmanul Hakim, Mahasiswa Teknik Informatika yang suka eksplorasi teknologi  
+- 💡 Lagi mendalami: `Artificial Intelligence`, `Internet of Things`, `Networking`, `Cybersecurity`, `Project Management`  
 - 🤝 Terbuka untuk kolaborasi dan kontribusi open source
 
-<p align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="max-width: 200%; display: inline-block;" data-target="animated-image.originalImage">
-</a>
-</p>
+---
+
 ### 🧰 Tech Stack & Creative Tools
 
-#### 💻 Programming, Framework & Other Languages
+#### 💻 Programming, Framework & Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,r,cpp" />
@@ -29,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
+</p>
 
 #### 🧠 AI & Data Tools
 
@@ -74,9 +69,32 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </p>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</a>
+---
+
+### 🧩 Fun Section: Game Mode
+
+#### 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/snake.svg" alt="Snake animation" />
+</p>
+
+#### 🕹️ Pacman (GIF)
+
+#### 🟡 Pacman Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman.svg" alt="Pacman contribution graph" />
+</p>
+
+
+<p align="center">
+  <a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="max-width: 100%;" />
+  </a>
+</p>
+
+---
 
 ### 📫 Let's Connect!
 
@@ -87,4 +105,6 @@
   <a href="https://github.com/luqmanaru"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
