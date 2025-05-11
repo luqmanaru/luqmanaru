@@ -23,7 +23,6 @@
 <p>
   <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   </p>
 
 #### 🧠 AI & Data Tools
@@ -57,8 +56,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
-
---- 
 
 #### 🌐 Networking & Security Tools
 <p>
