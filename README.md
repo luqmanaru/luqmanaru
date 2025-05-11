@@ -69,22 +69,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </p>
 
-### 🧩 Fun Section: Game Mode
-
-#### 🎮 Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-</picture>
-
-#### 🐍 Snake Animation
-
-
-
----
-
 ### 📫 Let's Connect!
 
 <p align="left">
