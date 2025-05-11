@@ -9,18 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       - name: Generate Pacman Contribution Graph
         uses: hediet/github-pacman@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Copy pacman output
-        run: |
-          mkdir -p output
-          cp pacman-contribution-graph*.svg output/
 
       - name: Generate Snake Contribution Graph
         uses: Platane/snk@v3
@@ -28,10 +20,3 @@ jobs:
           github_user_name: luqmanaru
           outputs: |
             output/snake.svg
-
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          publish_branch: output
