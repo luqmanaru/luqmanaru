@@ -8,36 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # penting agar bisa commit ke branch output
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Generate Pacman Contribution Graph
+        uses: hediet/github-pacman@v1
         with:
-          node-version: 16
-
-      - name: Install Pacman CLI
-        run: npm install -g @hediet/github-pacman
-
-      - name: Generate Pacman Graph
-        run: github-pacman --token ${{ secrets.GITHUB_TOKEN }} > pacman-contribution-graph.svg
-
-      - name: Move file ke folder output
-        run: |
-          mkdir -p output
-          mv pacman-contribution-graph.svg output/
-
-      - name: Commit ke branch output
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git checkout -B output
-          git add output/pacman-contribution-graph.svg
-          git commit -m "Update Pacman contribution graph"
-          git push origin output --force
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Snake Contribution Graph
         uses: Platane/snk@v3
