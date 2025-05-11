@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World, I'm Hanif 👋</h1>
 
 
-<p>
+<p align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" />
 </p>
 
@@ -9,7 +9,6 @@
 
 ### 🧠 About Me
 - 🎓 Mahasiswa Teknik Informatika yang suka eksplorasi teknologi
-- 🕌 Aktif di LDK Tarbiyatul Insan & penggerak dakwah digital lewat _Dakwah si Atul_
 - 💡 Lagi mendalami: `Artificial Intelligence`, `Internet of Things`, `Networking`, `Cybersecurity`, `Project Management`
 - 🤝 Terbuka untuk kolaborasi dan kontribusi open source
 
@@ -59,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-<img src="https://svgshare.com/i/12tM.svg" width="100%" height="2px" />
+---
 
 #### 🌐 Networking & Security Tools
 <p>
