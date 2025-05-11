@@ -4,7 +4,9 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" />
 </p>
 
----
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
 
 ### 🧠 About Me
 
@@ -12,7 +14,9 @@
 - 💡 Lagi mendalami: `Artificial Intelligence`, `Internet of Things`, `Networking`, `Cybersecurity`, `Project Management`
 - 🤝 Terbuka untuk kolaborasi dan kontribusi open source
 
----
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
 
 ### 🧰 Tech Stack & Creative Tools
 
@@ -68,6 +72,10 @@
   <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </p>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
 
 ### 📫 Let's Connect!
 
