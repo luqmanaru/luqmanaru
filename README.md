@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Mahasiswa Teknik Informatika yang suka eksplorasi teknologi
+- 🎓 Saya Hanif Luqmanul Hakim, Mahasiswa Teknik Informatika yang suka eksplorasi teknologi
 - 💡 Lagi mendalami: `Artificial Intelligence`, `Internet of Things`, `Networking`, `Cybersecurity`, `Project Management`
 - 🤝 Terbuka untuk kolaborasi dan kontribusi open source
 
