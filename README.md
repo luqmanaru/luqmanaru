@@ -1,16 +1,16 @@
-<h1 align="center">Hello World, I'm Hanif Luqmanul Hakim 👋</h1>
+<h1 align="center">👋 Hello World, I'm Hanif 👋</h1>
 
-<p align="center">
-  <b>Informatics student | Tech enthusiast | Lifelong learner</b><br>
-  Passionate about code, creativity, and community 🌱
+
+<p>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Mahasiswa Informatika yang suka eksplorasi teknologi
+- 🎓 Mahasiswa Teknik Informatika yang suka eksplorasi teknologi
 - 🕌 Aktif di LDK Tarbiyatul Insan & penggerak dakwah digital lewat _Dakwah si Atul_
-- 💡 Lagi mendalami: `Artificial Intelligence`, `Internet of Things`, `Cybersecurity`, `Project Management`
+- 💡 Lagi mendalami: `Artificial Intelligence`, `Internet of Things`, `Networking`, `Cybersecurity`, `Project Management`
 - 🤝 Terbuka untuk kolaborasi dan kontribusi open source
 
 ---
@@ -51,7 +51,7 @@
 <p>
   <img src="https://img.shields.io/badge/Capcut-black?style=for-the-badge&logo=capcut&logoColor=white" />
   <img src="https://img.shields.io/badge/Alight Motion-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/InShot-EA4C89?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </p>
 
 #### 🛠 Dev & Productivity Tools
@@ -59,27 +59,14 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
+<img src="https://svgshare.com/i/12tM.svg" width="100%" height="2px" />
 
----
-
-### 🚀 Highlighted Projects
-- 🔐 [`info-sec-lab`](https://github.com/luqmanaru/info-sec-lab) – eksperimen dan simulasi keamanan siber
-- 🤖 [`arduino-smart-sensor`](https://github.com/luqmanaru/arduino-smart-sensor) – project IoT dengan Arduino
-- 🧕 [`dakwah-si-atul`](https://github.com/luqmanaru/dakwah-si-atul) – dakwah digital lewat media interaktif
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luqmanaru&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luqmanaru&theme=tokyonight" width="48%" />
+#### 🌐 Networking & Security Tools
+<p>
+  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanaru&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ### 🧩 Fun Section: Game Mode
 
@@ -104,3 +91,5 @@
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/luqmanaru"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
