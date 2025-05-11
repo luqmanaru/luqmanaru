@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hanif 👋</h1>
+<h1 align="center">Hello World, I'm Hanif Luqmanul Hakim 👋</h1>
 
 <p align="center">
   <b>Informatics student | Tech enthusiast | Lifelong learner</b><br>
@@ -15,10 +15,50 @@
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,react,nodejs,arduino,vscode,git,github" />
+### 🧰 Tech Stack & Creative Tools
+
+#### 💻 Programming, Framework & Other Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,r,cpp" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  </p>
+
+#### 🧠 AI & Data Tools
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black
+  " />
+</p>
+
+#### 🔌 IoT 
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+#### 🎨 Design & Visual Tools
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+</p>
+
+#### 📹 Content Creation Tools
+<p>
+  <img src="https://img.shields.io/badge/Capcut-black?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alight Motion-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/InShot-EA4C89?style=for-the-badge" />
+</p>
+
+#### 🛠 Dev & Productivity Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
 
 ---
 
