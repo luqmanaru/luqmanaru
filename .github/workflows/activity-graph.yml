@@ -13,10 +13,3 @@ jobs:
         uses: luqmanaru/github-pacman@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
- 
-      - name: Generate Snake Contribution Graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: luqmanaru
-          outputs: |
-            output/snake.svg

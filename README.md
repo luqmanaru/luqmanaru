@@ -81,7 +81,7 @@
 
 #### 🐍 Snake Animation
 
-<img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
