@@ -74,9 +74,9 @@
 #### 🎮 Pacman Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </picture>
 
 #### 🐍 Snake Animation
