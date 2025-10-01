@@ -1,7 +1,15 @@
 <h1 align="center">Hi, I'm Hanif Luqmanul Hakim 👋</h1>
 <p align="center">Informatics Student | AI & IoT Enthusiast</p>
 
----
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" width="800"/>
+</p>
+
+<p>
+<a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</a>
+</p>
 
 ### 🧠 About Me
 
@@ -15,7 +23,11 @@ Saat ini, saya fokus mendalami:
 
 Saya selalu terbuka untuk kolaborasi dan kontribusi pada proyek open source yang menantang. Jangan ragu untuk menghubungi saya!
 
----
+<p>
+<a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</a>
+</p>
 
 ### 🚀 Featured Projects
 
@@ -28,7 +40,11 @@ Berikut adalah beberapa proyek yang saya banggakan:
 | [**IoT-Based Smart Home**](https://github.com/luqmanaru/IoT-Based-Smart-Home) | Prototipe rumah pintar yang mengintegrasikan berbagai sensor dan aktuator untuk kontrol otomatis. | `Arduino`, `C++` |
 | [**Jarkom Modul Praktikum**](https://github.com/luqmanaru/Jarkom-Modul-Praktikum) | Kumpulan modul dan latihan praktikum untuk mata kuliah Jaringan Komputer. | `Networking`, `Cisco Packet Tracer` |
 
----
+<p>
+<a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</a>
+</p>
 
 ### 🧰 Tech Stack & Tools
 
@@ -78,7 +94,11 @@ Berikut adalah beberapa proyek yang saya banggakan:
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </p>
 
----
+<p>
+<a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</a>
+</p>
 
 ### 📊 GitHub Analytics
 
