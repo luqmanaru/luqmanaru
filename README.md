@@ -116,3 +116,19 @@ Berikut adalah beberapa proyek yang saya banggakan:
   <a href="https://linkedin.com/in/luqmanaru"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/luqmanaru"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+<h2 align="left">I code with</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
+</picture>
+
+###
