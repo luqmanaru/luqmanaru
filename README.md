@@ -128,7 +128,7 @@ Berikut adalah beberapa proyek yang saya banggakan:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
