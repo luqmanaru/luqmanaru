@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luqmanaru 👋</h1>
-<p align="center">Informatics Student | AI & IoT Enthusiast</p>
+<p align="center">Informatics Student | Web Developer | AI & IoT Enthusiast</p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" width="100%"/>
@@ -16,6 +16,7 @@
 I am an Informatics Student passionate about developing technology solutions, especially at the intersection of **Artificial Intelligence** and **Internet of Things**. I believe that technology can create a real positive impact, and I am motivated to build intelligent and connected systems.
 
 Currently, I am focusing on deepening my knowledge in:
+- `Web Development` (Front-end & Back-end)
 - `Artificial Intelligence` (Machine Learning & Computer Vision)
 - `Internet of Things` (Embedded Systems)
 - `Networking` & `Cybersecurity`
