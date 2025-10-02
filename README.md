@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-I am an Informatics Student passionate about developing technology solutions, especially at the intersection of **Artificial Intelligence** and **Internet of Things**. I believe that technology can create a real positive impact, and I am motivated to build intelligent and connected systems.
+I am an Informatics Student passionate about building technology solutions, from full-stack web applications to intelligent IoT systems. My focus lies at the intersection of Artificial Intelligence and Internet of Things, where I aim to create technology with a real, positive impact. I am motivated to build systems that are smart, connected, and seamlessly integrated.
 
 Currently, I am focusing on deepening my knowledge in:
 - `Web Development` (Front-end & Back-end)
