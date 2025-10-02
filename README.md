@@ -26,7 +26,7 @@ I am always open to collaboration and contributions to challenging open source p
 
 <p>
 <a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </a>
 </p>
 
@@ -80,5 +80,5 @@ I am always open to collaboration and contributions to challenging open source p
 
 
 <p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="150%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
