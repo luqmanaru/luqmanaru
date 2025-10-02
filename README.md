@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Hanif Luqmanul Hakim 👋</h1>
+<h1 align="center">Hi, I'm Luqmanaru 👋</h1>
 <p align="center">Informatics Student | AI & IoT Enthusiast</p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" width="800"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN1b2JsN213NGtsY3loZjB4YmsycDdlcWh3NXF0ZnI5M3R0NGk0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7Yxpnkuan2AqWrhjj/giphy.gif" width="1000"/>
 </p>
 
-<p>
+<p align="center">
 <a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </a>
@@ -13,42 +13,25 @@
 
 ### 🧠 About Me
 
-Saya seorang Mahasiswa Teknik Informatika yang bersemangat dalam mengembangkan solusi teknologi, terutama di persimpangan antara **Artificial Intelligence** dan **Internet of Things**. Saya percaya bahwa teknologi dapat menciptakan dampak positif yang nyata, dan saya termotivasi untuk membangun sistem yang cerdas dan terhubung.
+I am an Informatics Student passionate about developing technology solutions, especially at the intersection of **Artificial Intelligence** and **Internet of Things**. I believe that technology can create a real positive impact, and I am motivated to build intelligent and connected systems.
 
-Saat ini, saya fokus mendalami:
+Currently, I am focusing on deepening my knowledge in:
 - `Artificial Intelligence` (Machine Learning & Computer Vision)
 - `Internet of Things` (Embedded Systems)
 - `Networking` & `Cybersecurity`
 - `Project Management`
 
-Saya selalu terbuka untuk kolaborasi dan kontribusi pada proyek open source yang menantang. Jangan ragu untuk menghubungi saya!
+I am always open to collaboration and contributions to challenging open source projects. Don't hesitate to contact me!
 
 <p>
 <a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</a>
-</p>
-
-### 🚀 Featured Projects
-
-Berikut adalah beberapa proyek yang saya banggakan:
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Face Recognition Attendance**](https://github.com/luqmanaru/face-recognition-attendance) | Sistem presensi otomatis menggunakan deteksi wajah untuk mempermudah pencatatan kehadiran. | `Python`, `OpenCV`, `Face Recognition` |
-| [**Chatbot Indonesia**](https://github.com/luqmanaru/chatbot-indonesia) | Chatbot sederhana yang dirancang untuk memahami dan merespons percakapan dalam bahasa Indonesia. | `Python`, `NLTK`, `TensorFlow` |
-| [**IoT-Based Smart Home**](https://github.com/luqmanaru/IoT-Based-Smart-Home) | Prototipe rumah pintar yang mengintegrasikan berbagai sensor dan aktuator untuk kontrol otomatis. | `Arduino`, `C++` |
-| [**Jarkom Modul Praktikum**](https://github.com/luqmanaru/Jarkom-Modul-Praktikum) | Kumpulan modul dan latihan praktikum untuk mata kuliah Jaringan Komputer. | `Networking`, `Cisco Packet Tracer` |
-
-<p>
-<a href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150%" />
 </a>
 </p>
 
 ### 🧰 Tech Stack & Tools
 
-#### 💻 Bahasa Pemrograman & Framework
+#### 💻 Programming Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,r,cpp" />
 </p>
@@ -100,14 +83,6 @@ Berikut adalah beberapa proyek yang saya banggakan:
 </a>
 </p>
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luqmanaru&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanaru&layout=compact&langs_count=7&theme=algolia"/>
-</p>
-
----
 
 ### 📫 Let's Connect!
 
@@ -117,18 +92,6 @@ Berikut adalah beberapa proyek yang saya banggakan:
   <a href="https://instagram.com/luqmanaru"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h2 align="left">I code with</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
-  <img alt="pacman animation" src="https://raw.githubusercontent.com/luqmanaru/luqmanaru/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
